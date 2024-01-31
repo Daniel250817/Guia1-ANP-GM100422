@@ -11,3 +11,16 @@ C:\Users\julio\OneDrive - Universidad Francisco Gavidia\UFG\U 2024 Ciclo 5\ANP\T
 C:\Users\julio\OneDrive - Universidad Francisco Gavidia\UFG\U 2024 Ciclo 5\ANP\Tareas\GM100422_Guia1\GM100422_Guia1\obj\Debug\GM100422_Guia1.Menu.resources
 C:\Users\julio\OneDrive - Universidad Francisco Gavidia\UFG\U 2024 Ciclo 5\ANP\Tareas\GM100422_Guia1\GM100422_Guia1\obj\Debug\GM100422_Guia1.Calculadora.resources
 C:\Users\julio\OneDrive - Universidad Francisco Gavidia\UFG\U 2024 Ciclo 5\ANP\Tareas\GM100422_Guia1\GM100422_Guia1\obj\Debug\GM100422_Guia1.Descuentos.resources
+C:\Users\julio\OneDrive - Universidad Francisco Gavidia\UFG\U 2024 Ciclo 5\ANP\Tareas\Guia1-ANP-GM100422\GM100422_Guia1\GM100422_Guia1\bin\Debug\GM100422_Guia1.exe.config
+C:\Users\julio\OneDrive - Universidad Francisco Gavidia\UFG\U 2024 Ciclo 5\ANP\Tareas\Guia1-ANP-GM100422\GM100422_Guia1\GM100422_Guia1\bin\Debug\GM100422_Guia1.exe
+C:\Users\julio\OneDrive - Universidad Francisco Gavidia\UFG\U 2024 Ciclo 5\ANP\Tareas\Guia1-ANP-GM100422\GM100422_Guia1\GM100422_Guia1\bin\Debug\GM100422_Guia1.pdb
+C:\Users\julio\OneDrive - Universidad Francisco Gavidia\UFG\U 2024 Ciclo 5\ANP\Tareas\Guia1-ANP-GM100422\GM100422_Guia1\GM100422_Guia1\obj\Debug\GM100422_Guia1.csproj.AssemblyReference.cache
+C:\Users\julio\OneDrive - Universidad Francisco Gavidia\UFG\U 2024 Ciclo 5\ANP\Tareas\Guia1-ANP-GM100422\GM100422_Guia1\GM100422_Guia1\obj\Debug\GM100422_Guia1.Calculadora.resources
+C:\Users\julio\OneDrive - Universidad Francisco Gavidia\UFG\U 2024 Ciclo 5\ANP\Tareas\Guia1-ANP-GM100422\GM100422_Guia1\GM100422_Guia1\obj\Debug\GM100422_Guia1.Descuentos.resources
+C:\Users\julio\OneDrive - Universidad Francisco Gavidia\UFG\U 2024 Ciclo 5\ANP\Tareas\Guia1-ANP-GM100422\GM100422_Guia1\GM100422_Guia1\obj\Debug\GM100422_Guia1.frmventana.resources
+C:\Users\julio\OneDrive - Universidad Francisco Gavidia\UFG\U 2024 Ciclo 5\ANP\Tareas\Guia1-ANP-GM100422\GM100422_Guia1\GM100422_Guia1\obj\Debug\GM100422_Guia1.Menu.resources
+C:\Users\julio\OneDrive - Universidad Francisco Gavidia\UFG\U 2024 Ciclo 5\ANP\Tareas\Guia1-ANP-GM100422\GM100422_Guia1\GM100422_Guia1\obj\Debug\GM100422_Guia1.Properties.Resources.resources
+C:\Users\julio\OneDrive - Universidad Francisco Gavidia\UFG\U 2024 Ciclo 5\ANP\Tareas\Guia1-ANP-GM100422\GM100422_Guia1\GM100422_Guia1\obj\Debug\GM100422_Guia1.csproj.GenerateResource.cache
+C:\Users\julio\OneDrive - Universidad Francisco Gavidia\UFG\U 2024 Ciclo 5\ANP\Tareas\Guia1-ANP-GM100422\GM100422_Guia1\GM100422_Guia1\obj\Debug\GM100422_Guia1.csproj.CoreCompileInputs.cache
+C:\Users\julio\OneDrive - Universidad Francisco Gavidia\UFG\U 2024 Ciclo 5\ANP\Tareas\Guia1-ANP-GM100422\GM100422_Guia1\GM100422_Guia1\obj\Debug\GM100422_Guia1.exe
+C:\Users\julio\OneDrive - Universidad Francisco Gavidia\UFG\U 2024 Ciclo 5\ANP\Tareas\Guia1-ANP-GM100422\GM100422_Guia1\GM100422_Guia1\obj\Debug\GM100422_Guia1.pdb

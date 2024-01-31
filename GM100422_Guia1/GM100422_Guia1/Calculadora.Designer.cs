@@ -64,6 +64,7 @@
             // cmbop
             // 
             this.cmbop.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.cmbop.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.cmbop.FormattingEnabled = true;
             this.cmbop.Location = new System.Drawing.Point(623, 119);
             this.cmbop.Name = "cmbop";

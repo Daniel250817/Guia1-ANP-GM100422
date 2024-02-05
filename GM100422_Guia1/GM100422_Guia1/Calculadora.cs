@@ -96,5 +96,10 @@ namespace GM100422_Guia1
             //me permite seleccionar el primer elemento de la lista
             listadvance.SelectedIndex = 0;
         }
+
+        private void cmbop_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }

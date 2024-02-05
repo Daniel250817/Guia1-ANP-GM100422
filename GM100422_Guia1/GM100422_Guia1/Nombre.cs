@@ -30,8 +30,10 @@ namespace GM100422_Guia1
 
         private void btnGuardar_Click(object sender, EventArgs e)
         {
-            string nombre = txtNombre.Text;
-            MessageBox.Show("Bienvenido a mi app " + nombre + " este es tu primer formulario");
+            string texto = txtNombre.Text; 
+            string mensaje = string.Format("Bienvenido al segundo formulario " + texto); 
+            nombreResult frmrecibe = new nombreResult(mensaje); /* creo un objeto del segundo formulario, adonde mando información*/ 
+            frmrecibe.Visible = true; // muestra el nuevo formulario this.Visible = false; // esconde el formulario actual
         }
 
         private void btnSalir_Click(object sender, EventArgs e)

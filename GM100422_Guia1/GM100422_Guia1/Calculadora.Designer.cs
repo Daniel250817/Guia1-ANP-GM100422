@@ -70,6 +70,7 @@
             this.cmbop.Name = "cmbop";
             this.cmbop.Size = new System.Drawing.Size(121, 21);
             this.cmbop.TabIndex = 2;
+            this.cmbop.SelectedIndexChanged += new System.EventHandler(this.cmbop_SelectedIndexChanged);
             // 
             // listadvance
             // 

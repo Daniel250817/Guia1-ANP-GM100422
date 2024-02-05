@@ -70,11 +70,29 @@
     <Compile Include="Calculadora.Designer.cs">
       <DependentUpon>Calculadora.cs</DependentUpon>
     </Compile>
+    <Compile Include="Calculos básicos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Calculos básicos.Designer.cs">
+      <DependentUpon>Calculos básicos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Conversion_Unidades.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Conversion_Unidades.Designer.cs">
+      <DependentUpon>Conversion_Unidades.cs</DependentUpon>
+    </Compile>
     <Compile Include="Descuentos.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Descuentos.Designer.cs">
       <DependentUpon>Descuentos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormulaGeneral.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormulaGeneral.Designer.cs">
+      <DependentUpon>FormulaGeneral.cs</DependentUpon>
     </Compile>
     <Compile Include="Nombre.cs">
       <SubType>Form</SubType>
@@ -88,19 +106,43 @@
     <Compile Include="Menu.Designer.cs">
       <DependentUpon>Menu.cs</DependentUpon>
     </Compile>
+    <Compile Include="nombreResult.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="nombreResult.Designer.cs">
+      <DependentUpon>nombreResult.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Sistema.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sistema.Designer.cs">
+      <DependentUpon>Sistema.cs</DependentUpon>
+    </Compile>
     <EmbeddedResource Include="Calculadora.resx">
       <DependentUpon>Calculadora.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Calculos básicos.resx">
+      <DependentUpon>Calculos básicos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Conversion_Unidades.resx">
+      <DependentUpon>Conversion_Unidades.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Descuentos.resx">
       <DependentUpon>Descuentos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormulaGeneral.resx">
+      <DependentUpon>FormulaGeneral.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Nombre.resx">
       <DependentUpon>Nombre.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Menu.resx">
       <DependentUpon>Menu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="nombreResult.resx">
+      <DependentUpon>nombreResult.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -111,6 +153,9 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="Sistema.resx">
+      <DependentUpon>Sistema.cs</DependentUpon>
+    </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>

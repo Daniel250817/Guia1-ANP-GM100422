@@ -52,6 +52,32 @@ namespace GM100422_Guia1
             Descuentos.Show();
             this.Hide();
         }
+
+        private void pictureBox5_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            Calculos_básicos Calculos_básicos = new Calculos_básicos();
+            Calculos_básicos.Show();
+            this.Hide();
+        }
+
+        private void btnConversion_Click(object sender, EventArgs e)
+        {
+            Conversion_Unidades Conversion_Unidades = new Conversion_Unidades();
+            Conversion_Unidades.Show();
+            this.Hide();
+        }
+
+        private void btnFormulaGen_Click(object sender, EventArgs e)
+        {
+            FormulaGeneral FormulaGeneral = new FormulaGeneral();
+            FormulaGeneral.Show();
+            this.Hide();
+        }
     }
 
 }

@@ -24,3 +24,8 @@ C:\Users\julio\OneDrive - Universidad Francisco Gavidia\UFG\U 2024 Ciclo 5\ANP\T
 C:\Users\julio\OneDrive - Universidad Francisco Gavidia\UFG\U 2024 Ciclo 5\ANP\Tareas\Guia1-ANP-GM100422\GM100422_Guia1\GM100422_Guia1\obj\Debug\GM100422_Guia1.csproj.CoreCompileInputs.cache
 C:\Users\julio\OneDrive - Universidad Francisco Gavidia\UFG\U 2024 Ciclo 5\ANP\Tareas\Guia1-ANP-GM100422\GM100422_Guia1\GM100422_Guia1\obj\Debug\GM100422_Guia1.exe
 C:\Users\julio\OneDrive - Universidad Francisco Gavidia\UFG\U 2024 Ciclo 5\ANP\Tareas\Guia1-ANP-GM100422\GM100422_Guia1\GM100422_Guia1\obj\Debug\GM100422_Guia1.pdb
+C:\Users\julio\OneDrive - Universidad Francisco Gavidia\UFG\U 2024 Ciclo 5\ANP\Tareas\Guia1-ANP-GM100422\GM100422_Guia1\GM100422_Guia1\obj\Debug\GM100422_Guia1.nombreResult.resources
+C:\Users\julio\OneDrive - Universidad Francisco Gavidia\UFG\U 2024 Ciclo 5\ANP\Tareas\Guia1-ANP-GM100422\GM100422_Guia1\GM100422_Guia1\obj\Debug\GM100422_Guia1.Sistema.resources
+C:\Users\julio\OneDrive - Universidad Francisco Gavidia\UFG\U 2024 Ciclo 5\ANP\Tareas\Guia1-ANP-GM100422\GM100422_Guia1\GM100422_Guia1\obj\Debug\GM100422_Guia1.Calculos_básicos.resources
+C:\Users\julio\OneDrive - Universidad Francisco Gavidia\UFG\U 2024 Ciclo 5\ANP\Tareas\Guia1-ANP-GM100422\GM100422_Guia1\GM100422_Guia1\obj\Debug\GM100422_Guia1.Conversion_Unidades.resources
+C:\Users\julio\OneDrive - Universidad Francisco Gavidia\UFG\U 2024 Ciclo 5\ANP\Tareas\Guia1-ANP-GM100422\GM100422_Guia1\GM100422_Guia1\obj\Debug\GM100422_Guia1.FormulaGeneral.resources

@@ -30,7 +30,7 @@ namespace GM100422_Guia1
         {
             string usuario = txtUsuario.Text; //capturamos los valores de usuario y contraseña 
             string contra = txtContra.Text;
-            string documentosPath = Environment.GetFolderPath(Environment.SpecialFolder.MyDocuments);
+            string documentosPath = Environment.GetFolderPath(Environment.SpecialFolder.Desktop);
 
             // Construir la ruta completa del archivo
             string filePath = Path.Combine(documentosPath, $"{usuario}.txt");
@@ -58,7 +58,7 @@ namespace GM100422_Guia1
         {
             string usuario = txtUsuario.Text; //capturamos los valores de usuario y contraseña 
             string contra = txtContra.Text;
-            string documentosPath = Environment.GetFolderPath(Environment.SpecialFolder.MyDocuments);
+            string documentosPath = Environment.GetFolderPath(Environment.SpecialFolder.Desktop);
 
             // Construir la ruta completa del archivo
             string filePath = Path.Combine(documentosPath, $"{usuario}.txt");

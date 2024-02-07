@@ -42,11 +42,11 @@
             this.txtResult2 = new System.Windows.Forms.TextBox();
             this.btnCalcular = new System.Windows.Forms.Button();
             this.groupBSolucion = new System.Windows.Forms.GroupBox();
-            this.pictureBox4 = new System.Windows.Forms.PictureBox();
-            this.txtValorB = new System.Windows.Forms.TextBox();
-            this.txtValorB2 = new System.Windows.Forms.TextBox();
-            this.txtvalorAC = new System.Windows.Forms.TextBox();
             this.txtValorA = new System.Windows.Forms.TextBox();
+            this.txtvalorAC = new System.Windows.Forms.TextBox();
+            this.txtValorB2 = new System.Windows.Forms.TextBox();
+            this.txtValorB = new System.Windows.Forms.TextBox();
+            this.pictureBox4 = new System.Windows.Forms.PictureBox();
             this.btnSalir = new System.Windows.Forms.Button();
             this.groupBSolucion.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox4)).BeginInit();
@@ -193,6 +193,45 @@
             this.groupBSolucion.TabStop = false;
             this.groupBSolucion.Text = "Solución";
             // 
+            // txtValorA
+            // 
+            this.txtValorA.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtValorA.Location = new System.Drawing.Point(203, 114);
+            this.txtValorA.Multiline = true;
+            this.txtValorA.Name = "txtValorA";
+            this.txtValorA.ReadOnly = true;
+            this.txtValorA.Size = new System.Drawing.Size(24, 38);
+            this.txtValorA.TabIndex = 23;
+            // 
+            // txtvalorAC
+            // 
+            this.txtvalorAC.Location = new System.Drawing.Point(285, 62);
+            this.txtvalorAC.Multiline = true;
+            this.txtvalorAC.Name = "txtvalorAC";
+            this.txtvalorAC.ReadOnly = true;
+            this.txtvalorAC.Size = new System.Drawing.Size(55, 38);
+            this.txtvalorAC.TabIndex = 22;
+            // 
+            // txtValorB2
+            // 
+            this.txtValorB2.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtValorB2.Location = new System.Drawing.Point(192, 62);
+            this.txtValorB2.Multiline = true;
+            this.txtValorB2.Name = "txtValorB2";
+            this.txtValorB2.ReadOnly = true;
+            this.txtValorB2.Size = new System.Drawing.Size(24, 38);
+            this.txtValorB2.TabIndex = 21;
+            // 
+            // txtValorB
+            // 
+            this.txtValorB.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtValorB.Location = new System.Drawing.Point(113, 62);
+            this.txtValorB.Multiline = true;
+            this.txtValorB.Name = "txtValorB";
+            this.txtValorB.ReadOnly = true;
+            this.txtValorB.Size = new System.Drawing.Size(24, 38);
+            this.txtValorB.TabIndex = 20;
+            // 
             // pictureBox4
             // 
             this.pictureBox4.Anchor = System.Windows.Forms.AnchorStyles.None;
@@ -205,45 +244,6 @@
             this.pictureBox4.TabStop = false;
             this.pictureBox4.Click += new System.EventHandler(this.pictureBox4_Click);
             // 
-            // txtValorB
-            // 
-            this.txtValorB.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtValorB.Location = new System.Drawing.Point(113, 62);
-            this.txtValorB.Multiline = true;
-            this.txtValorB.Name = "txtValorB";
-            this.txtValorB.ReadOnly = true;
-            this.txtValorB.Size = new System.Drawing.Size(24, 38);
-            this.txtValorB.TabIndex = 20;
-            // 
-            // txtValorB2
-            // 
-            this.txtValorB2.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtValorB2.Location = new System.Drawing.Point(192, 62);
-            this.txtValorB2.Multiline = true;
-            this.txtValorB2.Name = "txtValorB2";
-            this.txtValorB2.ReadOnly = true;
-            this.txtValorB2.Size = new System.Drawing.Size(24, 38);
-            this.txtValorB2.TabIndex = 21;
-            // 
-            // txtvalorAC
-            // 
-            this.txtvalorAC.Location = new System.Drawing.Point(285, 62);
-            this.txtvalorAC.Multiline = true;
-            this.txtvalorAC.Name = "txtvalorAC";
-            this.txtvalorAC.ReadOnly = true;
-            this.txtvalorAC.Size = new System.Drawing.Size(55, 38);
-            this.txtvalorAC.TabIndex = 22;
-            // 
-            // txtValorA
-            // 
-            this.txtValorA.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtValorA.Location = new System.Drawing.Point(203, 114);
-            this.txtValorA.Multiline = true;
-            this.txtValorA.Name = "txtValorA";
-            this.txtValorA.ReadOnly = true;
-            this.txtValorA.Size = new System.Drawing.Size(24, 38);
-            this.txtValorA.TabIndex = 23;
-            // 
             // btnSalir
             // 
             this.btnSalir.Anchor = System.Windows.Forms.AnchorStyles.None;
@@ -251,7 +251,7 @@
             this.btnSalir.Name = "btnSalir";
             this.btnSalir.Size = new System.Drawing.Size(114, 26);
             this.btnSalir.TabIndex = 19;
-            this.btnSalir.Text = "Salir";
+            this.btnSalir.Text = "Volver";
             this.btnSalir.UseVisualStyleBackColor = true;
             this.btnSalir.Click += new System.EventHandler(this.btnSalir_Click);
             // 

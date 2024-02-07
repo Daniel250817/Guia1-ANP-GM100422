@@ -175,7 +175,7 @@
             this.btnCalcBasic.Name = "btnCalcBasic";
             this.btnCalcBasic.Size = new System.Drawing.Size(117, 27);
             this.btnCalcBasic.TabIndex = 15;
-            this.btnCalcBasic.Text = "Calculos básicos";
+            this.btnCalcBasic.Text = "Cálculos básicos";
             this.btnCalcBasic.UseVisualStyleBackColor = true;
             this.btnCalcBasic.Click += new System.EventHandler(this.button1_Click);
             // 
